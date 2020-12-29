@@ -4,6 +4,7 @@
 1. [Python Basics](#python-basics)
 	1. [Running files](#running-files)
 	1. [Data Types, Numbers, and Operations](#data-types-numbers-and-operations)
+		1. [Comments](#comments)
 		1. [Order of Operations](#order-of-operations)
 	1. [Strings & Printing](#strings--printing)
 		1. [Concatenation](#concatenation)
@@ -36,19 +37,17 @@
 
 # Python Basics
 
-We can run Python code by running the `python` command in the terminal.
+We can run Python code by executing the `python` command in the terminal, assuming it was already installed.
 
 ## Running files
 
-* Python 3:
+* Python 3: `python3 fileName.py`
 
-	`python3 fileName.py`
-
-* Python 2:
-
-	`python fileName.py`
+* Python 2: `python fileName.py`
 
 ## Data Types, Numbers, and Operations
+
+### Comments
 
 	"""
 	Comments
@@ -296,7 +295,7 @@ We can reassign values of elements (or add new elements) in the dictionary:
 
 ## Dates & Time
 
-[Quick Dates & Time hands-on](./Hands_on/dates_time.py)
+[Quick Dates & Time hands-on](./hands_on/dates_time.py)
 
 ## Modules
 
@@ -321,7 +320,7 @@ Modules are basic Python source files where we define objects or functions.
 
 ## File I/O
 
-[Quick File I/O hands-on](./Hands_on/file_io.py)
+[Quick File I/O hands-on](./hands_on/file_io.py)
 
 # Python Classes
 
@@ -331,12 +330,12 @@ Modules are basic Python source files where we define objects or functions.
 
 ## Function Overloading
 
-[Quick Classes, Data & Methods, and Function Overloading & Overriding hands-on](./Hands_on/class.py)
+[Quick Classes, Data & Methods, and Function Overloading & Overriding hands-on](./hands_on/class.py)
 
 ## Inheritance
 
-[Quick Class Inheritance hands-on](./Hands_on/inheritance.py)
+[Quick Class Inheritance hands-on](./hands_on/inheritance.py)
 
 ## Operator Overloading
 
-[Quick Operator Overloading hands-on](./Hands_on/operator_overloading.py)
+[Quick Operator Overloading hands-on](./hands_on/operator_overloading.py)
