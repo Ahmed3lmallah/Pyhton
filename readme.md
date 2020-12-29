@@ -273,11 +273,11 @@ We can reassign values of elements (or add new elements) in the dictionary:
 
 * Used to break out of the while loop
 
-	while a > 0:
-		if a == 7:
-			break
-		print(a, end=' ')
-		a += 1
+		while a > 0:
+			if a == 7:
+				break
+			print(a, end=' ')
+			a += 1
 
 ### Simple For Loop
 
@@ -288,10 +288,10 @@ We can reassign values of elements (or add new elements) in the dictionary:
 
 * Used to skip current iteration
 
-	for i in c:
-		if i == 3:
-			continue
-		print(i, end=' ')
+		for i in c:
+			if i == 3:
+				continue
+			print(i, end=' ')
 
 ## Dates & Time
 
