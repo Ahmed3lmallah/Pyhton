@@ -1,4 +1,4 @@
-# Python
+# Python Primer
 
 **Content Table:**
 1. [Python Basics](#python-basics)
